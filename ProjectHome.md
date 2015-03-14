@@ -1,0 +1,2 @@
+Android(TM) app that makes select apps' notifications light up the display and show a popup on the lockscreen, containing the notification - like it uses to be on iOS devices.
+Android is a trademark of Google Inc.
